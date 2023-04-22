@@ -31,7 +31,7 @@ Things we have done in making this projects are:-
 
 - ## **Feature 2:** </br>
   Gamified View (Interior View ).
-<img src = "11.jpg" width = "700" height = "400">
+
 
 ## Contributors
 

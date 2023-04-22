@@ -20,19 +20,18 @@ Things we have done in making this projects are:-
 
 ## Demo
 # [Project Link](https://thunderous-sherbet-80b45f.netlify.app/)
-![](7.jpg)
+![](2.png)
 
 # FEATURES
  - ## **Feature 1:**  </br>
-  Quizified Game for James Web Telescope , where you can play and learn.
+  [ 360° View](https://orbix360.com/t/OFYPMIMh76hoqUEmXUrBTiHfPrw1/6462557812424704) ( Infrastructural View )
 
 <img src ="image.jpg" width ="700" height = "400">
 
 
 - ## **Feature 2:** </br>
-  Through this scene one can use the rotate view,zoom view and also change the skybox.</br>
-  It also depicts the infrared and visible mode of the telescope
-<img src = "11.jpg" width = "700" height = "400">
+  Gamified View (Interior View ).
+
 
 ## Contributors
 

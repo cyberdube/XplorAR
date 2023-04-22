@@ -35,7 +35,7 @@ Things we have done in making this projects are:-
 
 ## Contributors
 
-<img src = "3.jpg" width = "700" height = "400">
+<img src = "4.jpg" width = "700" height = "400">
 - [Utkarsh Shukla](https://github.com/kapilsingh2003)
 - [Aditya Mishra](https://github.com/kapilsingh2003)
 - [Prakhal Gupta](https://github.com/kapilsingh2003)

@@ -51,5 +51,5 @@ Things we have done in making this projects are:-
 
 ## Lessons Learned :  - [Indoor Navigation using Augmented Reality]
 
-<img src = "learn.jpg" width = "700" height = "400">
+<img src = "ab.gif" width = "700" height = "400">
 

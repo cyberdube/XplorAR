@@ -26,7 +26,7 @@ Things we have done in making this projects are:-
  - ## **Feature 1:**  </br>
   [ 360° View](https://orbix360.com/t/OFYPMIMh76hoqUEmXUrBTiHfPrw1/6462557812424704) ( Infrastructural View )
 
-<img src ="image.jpg" width ="700" height = "400">
+<img src ="1.png" width ="700" height = "400">
 
 
 - ## **Feature 2:** </br>

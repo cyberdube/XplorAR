@@ -1,18 +1,21 @@
 <!-- which  -->
-# INTROSPECTOR - Gamified Webgl Quiz
+# XplorAR - Remote Visualizer
  
- We have developed an interactive game that allows the players to learn about the James Webb Telescope in a way that is not only accessible to the players but also closes the gap between high-level concepts and the inaccessibility to understand them. This project gives players an option to get a simulation of what the James Webb Space Telescope “sees” as the players may explore in a 3D view. Not only that, but it also allows the players to understand the amazing capabilities of the James Webb Telescope and makes them aware of its huge impact on space research.
+1.Our idea provides 360° view of the institute through which user can see the aerial or the infrastructural view remotely.
+2.We also provide gamified view through which user can visit virtually in the interior views of the institutions, malls and hospitals.
+
  
 ## INSTRUCTIONS TO USE OUR PROJECT
 
 Our project is built on unity version 2021, which is a 3D/2D game engine and powerful cross-platform IDE for developers. And it is rendered using WebGL which is a JavaScript for rendering high-performance 2D and 3D graphics within any compatible web browser.
 
-Our project contains 13 scenes each, and for adding functionality like:-
+One can easily see the designs made using bleder and navigate in the interiors of the infrastructure by using A.S,W,D movements.
 
-->Rotating telescope or scenes </br>
-->Adding sound to the scene </br>
-->Adding skybox </br>
-We have used C# scripting in which we used inbuilt functions like (rendersettings.skybox, input.getacess ,transform.rotate) for adding specific functionality to our project.
+Things we have done in making this projects are:- 
+->Designing the 3-D model on Blender </br>
+->Adding third person camera follow and fbx file of 3D model in Unity </br>
+->Deploying project on Webgl. </br>
+
 
 
 ## Demo

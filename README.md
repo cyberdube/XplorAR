@@ -49,7 +49,7 @@ Things we have done in making this projects are:-
 
 <img src = "4.jpg" width = "700" height = "400">
 
-## Lessons Learned :  - [Deploying Unity Projects on webgl pages.](https://youtu.be/q8R3IkbaDso/)
+## Lessons Learned :  - [Indoor Navigation using Augmented Reality]
 
 <img src = "learn.jpg" width = "700" height = "400">
 

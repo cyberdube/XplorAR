@@ -20,7 +20,7 @@ Things we have done in making this projects are:-
 
 ## Demo
 # [Project Link](https://thunderous-sherbet-80b45f.netlify.app/)
-![](7.jpg)
+![](2.png)
 
 # FEATURES
  - ## **Feature 1:**  </br>

@@ -1,7 +1,7 @@
 <!-- which  -->
 # XplorAR - Remote Visualizer
  
-1.Our idea provides 360° view of the institute through which user can see the aerial or the infrastructural view remotely.
+1.Our idea provides 360° view of the institute through which user can see the aerial or the infrastructural view remotely. </br>
 2.We also provide gamified view through which user can visit virtually in the interior views of the institutions, malls and hospitals.
 
  
@@ -26,7 +26,7 @@ Things we have done in making this projects are:-
  - ## **Feature 1:**  </br>
   [ 360° View](https://orbix360.com/t/OFYPMIMh76hoqUEmXUrBTiHfPrw1/6462557812424704) ( Infrastructural View )
 
-<img src ="image.jpg" width ="700" height = "400">
+<img src ="1.png" width ="700" height = "400">
 
 
 - ## **Feature 2:** </br>
@@ -35,17 +35,19 @@ Things we have done in making this projects are:-
 
 ## Contributors
 
-- [Kapil Kumar Singh](https://github.com/kapilsingh2003)
-
+<img src = "3.png" width = "700" height = "400">
+- [Utkarsh Shukla](https://github.com/kapilsingh2003)
+- [Aditya Mishra](https://github.com/kapilsingh2003)
+- [Prakhal Gupta](https://github.com/kapilsingh2003)
 
 ## Accomplishments
 
 
-**Event:**  [NASA Space Apps Challenge 2022](https://www.spaceappschallenge.org/)
+**Event:**  [Innotech 2022](https://innotech.kiet.edu/)
 
-**Position:** My Team 2:59 A.M secured [Global Finalist Honorable Mentions](https://2022.spaceappschallenge.org/awards/honorable-mentions/)
+**Position:** My Team Squad Turnz secured got 3rd prize.
 
-<img src = "Awards.png" width = "700" height = "400">
+<img src = "4.png" width = "700" height = "400">
 
 ## Lessons Learned :  - [Deploying Unity Projects on webgl pages.](https://youtu.be/q8R3IkbaDso/)
 

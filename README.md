@@ -55,7 +55,6 @@ Things we have done in making this projects are:-
 
 **Position:** My Team Squad Turnz secured got 3rd prize.
 
-<img src = "4.jpg" width = "600" height = "400">
 
 ## Lessons Learned :  - [Indoor Navigation using Augmented Reality]
 

@@ -19,7 +19,7 @@ Things we have done in making this projects are:-
 
 
 ## Demo
-# [Project Link](https://thunderous-sherbet-80b45f.netlify.app/)
+# [Project Link](https://xplorar.netlify.app/)
 ![](2.png)
 
 # FEATURES
@@ -30,7 +30,7 @@ Things we have done in making this projects are:-
 
 
 - ## **Feature 2:** </br>
-  Gamified View (Interior View ).
+  [Gamified View](https://thunderous-sherbet-80b45f.netlify.app/) (Interior View ).
 
 
 ## Contributors

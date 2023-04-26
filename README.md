@@ -53,9 +53,9 @@ Things we have done in making this projects are:-
 
 **Position:** My Team Squad Eklavya was among the Top 15 finalists in this hackathon hosted by IEEE DTU ( Formerly Delhi Engineering College ).
 
-**Event:**  [Innotech 2022](https://innotech.kiet.edu/)
+**Event:**  [Hack the Chain](https://hackthechain.vercel.app/)
 
-**Position:** My Team Squad Turnz secured got 3rd prize.
+**Position:** My Team Squad Turnz  was among the Top 10 finalists in this hackathon hosted by IIIT Kota CodeBase.
 
 
 ## Lessons Learned :  - [Indoor Navigation using Augmented Reality]

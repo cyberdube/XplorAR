@@ -45,11 +45,11 @@ Things we have done in making this projects are:-
 
 **Event:**  [Innotech 2022](https://innotech.kiet.edu/)
 
-**Position:** My Team Squad Turnz secured got 3rd prize.
+**Position:** My Team Squad Turnz secured got 3rd prize in this hackathon hosted by KIET Group of Institutions.
 
-**Event:**  [Vihaan 6.0 ](https://innotech.kiet.edu/)
+**Event:**  [Vihaan 6.0 ](https://vihaan.ieeedtu.in/)
 
-**Position:** My Team Squad Turnz secured got 3rd prize.
+**Position:** My Team Squad Eklavya was among the Top 15 finalists in this hackathon hosted by IEEE DTU ( Formerly Delhi Engineering College ).
 
 **Event:**  [Innotech 2022](https://innotech.kiet.edu/)
 

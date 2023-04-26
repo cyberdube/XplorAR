@@ -36,12 +36,20 @@ Things we have done in making this projects are:-
 ## Contributors
 
 <img src = "3.jpg" width = "550" height = "400">
-- [Utkarsh Shukla](https://github.com/kapilsingh2003)
-- [Aditya Mishra](https://github.com/kapilsingh2003)
-- [Prakhal Gupta](https://github.com/kapilsingh2003)
+-[Utkarsh Shukla](https://github.com/kapilsingh2003)
+-[Aditya Mishra](https://github.com/kapilsingh2003)
+-[Prakhal Gupta](https://github.com/kapilsingh2003)
 
 ## Accomplishments
 
+
+**Event:**  [Innotech 2022](https://innotech.kiet.edu/)
+
+**Position:** My Team Squad Turnz secured got 3rd prize.
+
+**Event:**  [Vihaan 6.0 ](https://innotech.kiet.edu/)
+
+**Position:** My Team Squad Turnz secured got 3rd prize.
 
 **Event:**  [Innotech 2022](https://innotech.kiet.edu/)
 

@@ -40,6 +40,8 @@ Things we have done in making this projects are:-
 -[Aditya Mishra](https://github.com/kapilsingh2003)
 -[Prakhal Gupta](https://github.com/kapilsingh2003)
 
+<img src = "3.jpg" width = "550" height = "400">
+
 ## Accomplishments
 
 

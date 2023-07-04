@@ -48,7 +48,7 @@ Things we have done in making this projects are:-
 **Event:**  [Innotech 2022](https://innotech.kiet.edu/)
 
 **Position:** My Team "Squad Turnz" secured got 3rd prize in this hackathon hosted by <b>KIET Group of Institutions.
-</b> 
+</b> </br/>
 **Event:**  [Vihaan 6.0 ](https://vihaan.ieeedtu.in/)
 
 **Position:** My Team "Eklavya" was among the Top 15 finalists in this hackathon hosted by <b>IEEE DTU

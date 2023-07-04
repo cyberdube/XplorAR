@@ -58,9 +58,9 @@ Things we have done in making this projects are:-
 
 **Position:** My Team "Squad Turnz"  was among the Top 10 finalists in this hackathon hosted by <b>IIIT Kota CodeBase. 
 </b>  </br>
-**Event:**  [Innovation Day Challenge]
+**Event:**  Innovation Day Challenge
 
-**Position:** My Team "Squad Turnz"  won the 1st prize in January Edition of this challenge  hosted by <b> [Innovation Day Challenge](https://www.kiet.edu/innovation-center)
+**Position:** My Team "Squad Turnz"  won the 1st prize in January Edition of this challenge  hosted by <b> [KIET Innovation Centre](https://www.kiet.edu/innovation-center)
 </b>  </br>
 
 

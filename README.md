@@ -47,21 +47,21 @@ Things we have done in making this projects are:-
 
 **Event:**  [Innotech 2022](https://innotech.kiet.edu/)
 
-**Position:** My Team "Squad Turnz" secured got 3rd prize in this hackathon hosted by <b>KIET Group of Institutions.
-</b> </br/>
+**Position:** My Team "Squad Turnz" secured got 3rd prize in this hackathon hosted by <b>KIET Group of Institutions. 
+</b>  </br>
 **Event:**  [Vihaan 6.0 ](https://vihaan.ieeedtu.in/)
 
 **Position:** My Team "Eklavya" was among the Top 15 finalists in this hackathon hosted by <b>IEEE DTU
-</b>( Formerly Delhi Engineering College ).
+</b>( Formerly Delhi Engineering College ).  </br>
 
 **Event:**  [Hack the Chain](https://hackthechain.vercel.app/)
 
-**Position:** My Team "Squad Turnz"  was among the Top 10 finalists in this hackathon hosted by <b>IIIT Kota CodeBase.
-</b> 
+**Position:** My Team "Squad Turnz"  was among the Top 10 finalists in this hackathon hosted by <b>IIIT Kota CodeBase. 
+</b>  </br>
 **Event:**  [Innovation Day Challenge]
 
 **Position:** My Team "Squad Turnz"  won the 1st prize in January Edition of this challenge  hosted by <b> [Innovation Day Challenge](https://www.kiet.edu/innovation-center)
-</b> 
+</b>  </br>
 
 
 ## Lessons Learned :  - [Indoor Navigation using Augmented Reality]
